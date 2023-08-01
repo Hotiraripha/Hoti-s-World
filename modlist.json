@@ -1,27 +1,27 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Hoti_s_World_",
+    "title": "Hotisworld",
     "description": "A modlist tailored to those who want to try something different,featuring hundreds of mods, this modlist is in beta at this moment in time,so if there are any issues, please report it.",
-    "author": "<Hotiraripha>",
+    "author": "Hotiraripha",
     "maintainers": [
-      "https://github.com/Hotiraripha>"
+      "https://github.com/Hotiraripha"
     ],
     "game": "Fallout4",
     "tags": [
       "Beta",
-      "<Wabbajack"
+      "Wabbajack"
     ],
     "nsfw": false,
     "image_contains_title": false,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<https://imgur.com/a/RnfCZd8>",
-      "readme": "<https://github.com/Hotiraripha/Hoti-s-World/blob/main/README.md>",
+      "image": "https://imgur.com/a/RnfCZd8",
+      "readme": "https://github.com/Hotiraripha/Hoti-s-World/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Hoti",
-      "machineURL": "Hoti_s_World_",
-      "discordURL": "<https://discord.gg/S4PHYTScMv>"
+      "machineURL": "HotisWorld",
+      "discordURL": "https://discord.gg/S4PHYTScMv"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
