@@ -8,14 +8,14 @@ THIS PAGE IS STILL UNDER CONSTRUCTION, IF YOU DO NOT KNOW WHAT WABBAJACK IS, LOO
 CHECK THE INSTRUCTIONS, YOU NEED TO READ EVERYTHING!
 
 
-List of mods
+List of mods (https://loadorderlibrary.com/lists/hotis-world-v050)
 
 No perk system overhauls in this version as be exceptional has proven to be troublesome.
 
 Everything is preconfigured for the end user, you just need to select F4SE and
 play. If you want the upscaler mod I will leave instructions on how to
 make it work but you will need to remove the ENB, unless you want to join
-PureDark's Patreon, he has a version that works with ENBs.
+PureDark's Patreon (https://patreon.com/PureDark?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_fan&utm_content=join_link), he has a version that works with ENBs.
 
 I do not have many testers, as I have recently started working on this. There
 may be bugs, extensive testing is needed, but I wanted to get as many
@@ -46,12 +46,12 @@ SSD REQUIRED 320GB FREE NEEDED
 
 
 Out of the box the game is configured with NAC X but ideally I would love you
-to try it with REACTOR ENB, as it provides a visual overhaul that is to MY liking.
+to try it with REACTOR ENB (https://www.nexusmods.com/fallout4/mods/57321), as it provides a visual overhaul that is to MY liking.
 
 
 Instructions:
 
-You will need to download Wabbajack from here: Wabbajack
+You will need to download Wabbajack from here: Wabbajack (https://www.wabbajack.org/)
 video instructions here
 
 Then, create a folder called Wabbajack anywhere BUT protected folders such as
@@ -67,4 +67,4 @@ able to respond faster there and update things faster too. Discord Link
 
 Constructive criticism welcome! I also will not help with pirated copies! Buy the game on sale if you do not have it yet!
 
-4K 60 demonstration playlist, if more videos are made, you will see them there.
+4K 60 demonstration playlist, if more videos are made, you will see them there(https://www.youtube.com/watch?v=2MBES1xmNwE&list=PLye_Kvp5j0zfS58miIqGY94u57WmKmLVR&pp=gAQBiAQB).
