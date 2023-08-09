@@ -3,7 +3,7 @@
     Complete overhaul of Fallout 4 and everything except the perk system, to bring it closer to MY ideal version of Fallout, criticism is encouraged Hotiraripha's World, or Hoti's World for short, is a nearly complete overhaul of every system of Fallout 4, adding everything that I PERSONALLY would have wanted fallout to be. From enemies being more varied and intelligent, to adding dozens of weapon mods, Hoti's World is a re-imagining of the game. It is not a yet another hardcore modlist, but something for everyone who wants what I'd say is a slightly tough list. It contains REAL.AI and Untethered REAL.AI, so expect things to be different.
 
 
-THIS PAGE IS STILL UNDER CONSTRUCTION, IF YOU DO NOT KNOW WHAT WABBAJACK IS, LOOK IT UP BEFORE CALLING ME A PIRATE OR CALLING THE FILES SKETCHY!
+THIS PAGE IS STILL UNDER CONSTRUCTION
 
 CHECK THE INSTRUCTIONS, YOU NEED TO READ EVERYTHING!
 
