@@ -31,7 +31,7 @@ Intel 9th gen, 6 Core with hyperthreading or more
 GPU
 RX 5700 and above on AMD's side
 RTX 2060 Super and above on Nvidia's or 1080 Ti.
-SSD REQUIRED 320GB FREE NEEDED
+SSD REQUIRED 180GB FREE NEEDED
 
 RECOMMENDED:
 RAM
@@ -42,7 +42,7 @@ Intel 9th gen, 6 Core with hyperthreading or more
 GPU
 RTX 2080 Super or higher
 RX 5700 xt/6700 or higher
-SSD REQUIRED 320GB FREE NEEDED
+SSD REQUIRED 180GB FREE NEEDED
 
 
 Out of the box the game is configured with NAC X but ideally I would love you
@@ -52,7 +52,7 @@ to try it with REACTOR ENB (https://www.nexusmods.com/fallout4/mods/57321), as i
 Instructions:
 
 You will need to download Wabbajack from here: Wabbajack (https://www.wabbajack.org/)
-video instructions here
+video instructions here (https://www.youtube.com/watch?v=c9jDnjSRqOE)
 
 Then, create a folder called Wabbajack anywhere BUT protected folders such as
 Documents, Program Files or any other pre-created Windows folders,
@@ -63,7 +63,7 @@ Select a folder to install the modlist into following the same rules for Wabbaja
 Once it has all finished installing, start the ModOrganizer.exe from the install folder and select F4SE from the drop menu next to PLAY button, and you will be able to play.
 
 Report any bugs you may have both on Nexus and on my Discord, please join as I will be
-able to respond faster there and update things faster too. Discord Link
+able to respond faster there and update things faster too. Discord Link (https://discord.gg/S4PHYTScMv)
 
 Constructive criticism welcome! I also will not help with pirated copies! Buy the game on sale if you do not have it yet!
 
