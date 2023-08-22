@@ -14,8 +14,7 @@ No perk system overhauls in this version as be exceptional has proven to be trou
 
 Everything is preconfigured for the end user, you just need to select F4SE and
 play. If you want the upscaler mod I will leave instructions on how to
-make it work but you will need to remove the ENB, unless you want to join
-PureDark's Patreon (https://patreon.com/PureDark?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_fan&utm_content=join_link), he has a version that works with ENBs.
+make it work but you will need to remove the ENB
 
 I do not have many testers, as I have recently started working on this. There
 may be bugs, extensive testing is needed, but I wanted to get as many
