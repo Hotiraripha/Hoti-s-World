@@ -8,6 +8,7 @@ THIS PAGE IS STILL UNDER CONSTRUCTION
 CHECK THE INSTRUCTIONS, YOU NEED TO READ EVERYTHING!
 
 
+
 List of mods (https://loadorderlibrary.com/lists/hotis-world-v050)
 
 No perk system overhauls in this version as be exceptional has proven to be troublesome.
@@ -49,6 +50,9 @@ to try it with REACTOR ENB (https://www.nexusmods.com/fallout4/mods/57321), as i
 
 
 Instructions:
+
+Before doing anything, if you are using a fresh installation of FO4 you need to launch the fo4 launcher first, select your graphical settings and then close the launcher, after that,launch mo2 and start F4SE.
+The game may take long to load once starting a new game, or seem like it is not loading at all, proceed to spam the keys 'space, tab. T. and F' after a bit it will load.
 
 You will need to download Wabbajack from here: Wabbajack (https://www.wabbajack.org/)
 video instructions here (https://www.youtube.com/watch?v=c9jDnjSRqOE)
