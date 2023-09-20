@@ -10,6 +10,7 @@ CHECK THE INSTRUCTIONS, YOU NEED TO READ EVERYTHING!
 
 
 List of mods (https://loadorderlibrary.com/lists/hotirariphas-world)
+
 No perk system overhauls in this version as be exceptional has proven to be troublesome.
 
 Everything is preconfigured for the end user, you just need to select F4SE and
