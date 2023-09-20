@@ -9,13 +9,11 @@ CHECK THE INSTRUCTIONS, YOU NEED TO READ EVERYTHING!
 
 
 
-List of mods (https://loadorderlibrary.com/lists/hotis-world-v050)
-
+List of mods (https://loadorderlibrary.com/lists/hotirariphas-world)
 No perk system overhauls in this version as be exceptional has proven to be troublesome.
 
 Everything is preconfigured for the end user, you just need to select F4SE and
-play. If you want the upscaler mod I will leave instructions on how to
-make it work but you will need to remove the ENB
+play. 
 
 I do not have many testers, as I have recently started working on this. There
 may be bugs, extensive testing is needed, but I wanted to get as many
@@ -31,7 +29,7 @@ Intel 9th gen, 6 Core with hyperthreading or more
 GPU
 RX 5700 and above on AMD's side
 RTX 2060 Super and above on Nvidia's or 1080 Ti.
-SSD REQUIRED 180GB FREE NEEDED
+SSD REQUIRED 210GB FREE NEEDED
 
 RECOMMENDED:
 RAM
@@ -42,7 +40,7 @@ Intel 9th gen, 6 Core with hyperthreading or more
 GPU
 RTX 2080 Super or higher
 RX 5700 xt/6650xt or higher
-SSD REQUIRED 180GB FREE NEEDED
+SSD REQUIRED 210GB FREE NEEDED
 
 
 Out of the box the game is configured with NAC X but ideally I would love you
