@@ -41,7 +41,7 @@ Ryzen 3600 and above
 Intel 9th gen, 6 Core with hyperthreading or more
 GPU
 RTX 2080 Super or higher
-RX 5700 xt/6700 or higher
+RX 5700 xt/6650xt or higher
 SSD REQUIRED 180GB FREE NEEDED
 
 
