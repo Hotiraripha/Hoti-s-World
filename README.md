@@ -9,7 +9,7 @@ CHECK THE INSTRUCTIONS, YOU NEED TO READ EVERYTHING!
 
 
 
-List of mods (https://loadorderlibrary.com/lists/hotirariphas-world)
+List of mods (https://loadorderlibrary.com/lists/hotirariphas-world-1)
 
 No perk system overhauls in this version as be exceptional has proven to be troublesome.
 
