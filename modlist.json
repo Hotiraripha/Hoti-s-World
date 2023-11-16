@@ -16,7 +16,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://i.imgur.com/nBMCBmo.jpg",
       "readme": "https://github.com/Hotiraripha/Hoti-s-World/blob/main/README.md",
