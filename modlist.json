@@ -20,21 +20,21 @@
     "links": {
       "image": "https://i.imgur.com/nBMCBmo.jpg",
       "readme": "https://github.com/Hotiraripha/Hoti-s-World/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Hotisworld.wabbajack_ab4a2e01-3e96-4a4a-beba-199b001fffed",
+      "download": "https://authored-files.wabbajack.org/Hotisworld.wabbajack_3301ab39-4b47-4221-87e7-bb4427cc5718",
       "machineURL": "HotisWorld",
       "discordURL": "https://discord.gg/S4PHYTScMv"
     },
     "download_metadata": {
-      "Hash": "syu7BehrK58=",
-      "Size": 159318238,
-      "NumberOfArchives": 500,
-      "SizeOfArchives": 106473448690,
-      "NumberOfInstalledFiles": 75058,
-      "SizeOfInstalledFiles": 137194228665
+      "Hash": "/zCM6M41AXQ=",
+      "Size": 158569074,
+      "NumberOfArchives": 502,
+      "SizeOfArchives": 106870373491,
+      "NumberOfInstalledFiles": 54325,
+      "SizeOfInstalledFiles": 138034133655
     },
-    "version": "0.8.2",
+    "version": "0.8.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-11-16T15:14:33.6422607Z",
+    "dateUpdated": "2023-11-17T02:27:17.7649406Z",
     "repositoryName": ""
   }
 ]
