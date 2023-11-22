@@ -16,10 +16,7 @@ No perk system overhauls in this version as be exceptional has proven to be trou
 Everything is preconfigured for the end user, you just need to select F4SE and
 play. 
 
-I do not have many testers, as I have recently started working on this. There
-may be bugs, extensive testing is needed, but I wanted to get as many
-people to help as possible with this. This modlist has been tested on a
-very high end system but ideally you should have:
+IMPORTANT! after creating the downloads folder wherever you have chosen to install the modlist, download rootbuilder's latest version fromm (https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=433827&game_id=1704) and drop it into the downloads folder, this is a mandatory requirement, otherwise the modlist installation will fail.
 
 MINIMUM REQUIREMENTS:
 RAM
