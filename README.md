@@ -1,9 +1,5 @@
 # Hoti-s-World
 
-    Complete overhaul of Fallout 4 and everything except the perk system, to bring it closer to MY ideal version of Fallout, criticism is encouraged Hotiraripha's World, or Hoti's World for short, is a nearly complete overhaul of every system of Fallout 4, adding everything that I PERSONALLY would have wanted fallout to be. From enemies being more varied and intelligent, to adding dozens of weapon mods, Hoti's World is a re-imagining of the game. It is not a yet another hardcore modlist, but something for everyone who wants what I'd say is a slightly tough list. It contains REAL.AI and Untethered REAL.AI, so expect things to be different.
-
-
-THIS PAGE IS STILL UNDER CONSTRUCTION
 
 CHECK THE INSTRUCTIONS, YOU NEED TO READ EVERYTHING!
 
@@ -13,7 +9,7 @@ List of mods (https://loadorderlibrary.com/lists/hotirariphas-world-1)
 
 No perk system overhauls in this version as be exceptional has proven to be troublesome.
 
-Everything is preconfigured for the end user, you just need to select F4SE and
+Nearly Everything is preconfigured for the end user, you just need to select F4SE and
 play. 
 
 IMPORTANT! after creating the downloads folder wherever you have chosen to install the modlist, download rootbuilder's latest version fromm (https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=433827&game_id=1704) and drop it into the downloads folder, this is a mandatory requirement, otherwise the modlist installation will fail.
