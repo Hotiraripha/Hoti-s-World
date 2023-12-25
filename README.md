@@ -5,9 +5,8 @@ CHECK THE INSTRUCTIONS, YOU NEED TO READ EVERYTHING!
 
 
 
-List of mods (https://loadorderlibrary.com/lists/hotirariphas-world-1)
+List of mods https://loadorderlibrary.com/lists/hotirariphas-world-2
 
-No perk system overhauls in this version as be exceptional has proven to be troublesome.
 
 Nearly Everything is preconfigured for the end user, you just need to select F4SE and
 play. 
