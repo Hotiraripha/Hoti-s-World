@@ -8,11 +8,7 @@ CHECK THE INSTRUCTIONS, YOU NEED TO READ EVERYTHING!
 List of mods https://loadorderlibrary.com/lists/hotirariphas-world-2
 
 
-Nearly Everything is preconfigured for the end user, you just need to select F4SE and
-play. 
-
-IMPORTANT! after creating the downloads folder wherever you have chosen to install the modlist, download rootbuilder's latest version fromm (https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=433827&game_id=1704) and drop it into the downloads folder, this is a mandatory requirement, otherwise the modlist installation will fail.
-
+Everything is pre configured for the user.
 MINIMUM REQUIREMENTS:
 RAM
 16GB DDR4 3000Mhz
