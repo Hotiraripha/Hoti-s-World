@@ -29,4 +29,6 @@ You will have to select your graphical settings in Mod Organizer 2's own Fallout
 
 If you encounter the infinite loading bug upon starting a new game, press these keys in any order until the game loads, for some reason there is an invisible check or option you end up selecting by pressing these keys: tab, space, t and enter, and the game will load
 
+After loading and creating your character, you will get a prompt asking you if you have any mods that need loading, click yes and wait.
+
 Any questions you may have, critiscm feedback or inclusion proposals, feel free to join the discord and tell me.
