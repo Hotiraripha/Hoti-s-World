@@ -27,6 +27,8 @@ Fresh Installation of Fallout 4, outside of program files or any windows protect
 POST INSTALLATION: 
 You will have to select your graphical settings in Mod Organizer 2's own Fallout 4 Launcher instance, after selecting your settings, you can launch F4SE.
 
+For GOG users, if no F4SE scripts are being loaded Add -forcesteamloader to the launch arguments for F4SE for the time being in mod organizer 2's dropdown menu after selecting 'edit'
+
 If you encounter the infinite loading bug upon starting a new game, press these keys in any order until the game loads, for some reason there is an invisible check or option you end up selecting by pressing these keys: tab, space, t and enter, and the game will load
 
 After loading and creating your character, you will get a prompt asking you if you have any mods that need loading, click yes and wait.
