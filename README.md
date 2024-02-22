@@ -27,7 +27,7 @@ Fresh Installation of Fallout 4, outside of program files or any windows protect
 POST INSTALLATION: 
 You will have to select your graphical settings in Mod Organizer 2's own Fallout 4 Launcher instance, after selecting your settings, you can launch F4SE.
 
-For GOG users, if no F4SE scripts are being loaded Add -forcesteamloader to the launch arguments for F4SE for the time being in mod organizer 2's dropdown menu after selecting 'edit'
+Whilst in game, remove the tactical reload keyword from vanilla weapons, so that you are able to reload, to do this, bring up the ECO quick modification menu in MCM, first option once the game is paused, also, DO NOT use survival mode difficulty, as it is not supported by Hotisworld, instead, configure your own difficulty with advanced needs 76.
 
 If you encounter the infinite loading bug upon starting a new game, press these keys in any order until the game loads, for some reason there is an invisible check or option you end up selecting by pressing these keys: tab, space, t and enter, and the game will load
 
