@@ -1,5 +1,7 @@
 # Hoti-s-World
 
+Discord Server invite: https://discord.gg/knCJnmbUQK
+
 DESCRIPTION
 
 This is a WIP for the upcoming version of HotisWorld, dubbed Hotisworld 'NG' it aims to do something similar to the previous hotisworld modlist, but be updated to support the recent next gen update of Fallout 4, newer wabbajack versions, newer modding methodologies and mindsets that I have adopted during the break from hotisworld.
