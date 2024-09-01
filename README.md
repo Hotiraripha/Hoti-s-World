@@ -33,6 +33,13 @@ as the list is under development, you will want to have more than enough ram, so
 
 a 6 core CPU (i5 10400f or R5 3600) and above will do, but of course the better single threaded performance your cpu can pump out the better.
 
+POST INSTALLATION: 
+
+Please make sure to let every mod load BEFORE clicking continue in the bathroom, you will be prompted to select this by the game, after you have named and selected your perks, you will, if all mods have loaded, be sent to Vault 111 or you can select a different location, the choice is yours. 
+Wait until every message at the top left has stopped popping up, do not move in the meantime, this will take time because of the many mods being injected into the leveled list and that need to be loaaded, you cannot skip this, after everything has loaded make sure to save the game, not quicksave, and play as normal.
+
+
+This is the mods list: https://loadorderlibrary.com/lists/hoti-s-world-ng#loadorder.txt
 
 I do take feedback which you can write in the comment section or in this WIP server for Hotisworld NG ''Hoti's World Reborn'' where you can directly tell me about changes or improvements you would like to see, but please keep in mind I will not make something I would not play, my vision comes first for the ideal Fallout, but I will also give you the freedom to play however you please by giving  you said tools.
 
